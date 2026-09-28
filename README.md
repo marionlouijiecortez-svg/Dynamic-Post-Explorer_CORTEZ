@@ -10,6 +10,7 @@ A web-based activity project demonstrating asynchronous JavaScript programming u
 - *Dynamic UI Updating:* Dynamically renders fetched content directly onto the HTML DOM without requiring page reloads.
 - *Error & Loading Handling:* Implements user interface feedback for data loading states and handles potential network or request errors gracefully.
 
+
 ---
 
 ## 🛠️ Technologies Used
