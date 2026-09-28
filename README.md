@@ -9,14 +9,12 @@ A web-based activity project demonstrating asynchronous JavaScript programming u
 - *Asynchronous Data Fetching:* Utilizes fetch() with Promises or async/await syntax to retrieve dynamic data from an external API or mock data source.
 - *Dynamic UI Updating:* Dynamically renders fetched content directly onto the HTML DOM without requiring page reloads.
 - *Error & Loading Handling:* Implements user interface feedback for data loading states and handles potential network or request errors gracefully.
-- *Clean Styling:* Standard CSS layout and design ensuring readable presentation of fetched records.
 
 ---
 
 ## 🛠️ Technologies Used
 
 - *HTML5:* Markup structure for displaying data components.
-- *CSS3:* Layout and visual formatting.
 - *JavaScript (ES6+):* Asynchronous JavaScript, JavaScript Promises, async/await, and DOM manipulation.
 
 ---
